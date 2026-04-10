@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-# SBTI 测试（镜像）
 
 =======
 # rorary318.github.io
